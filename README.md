@@ -124,14 +124,3 @@ const mayur = {
 
 ---
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&area=true&hide_border=true"/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
